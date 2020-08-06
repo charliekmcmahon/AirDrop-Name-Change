@@ -5,4 +5,4 @@
 <br>
 <h7> If you would like an app where <b>you can customise</b> your Mac's name, please click <a href="https://github.com/charliekmcmahon/AirDrop-Name-Change/releases/tag/1.6">here.</a> </h2>
 <br>
-<h5>This app was created with <h5>❤️</h5> by Charlie McMahon. Copyright 2017-2020.</h5>
+<h5>This app was created with <a>❤️</a> by Charlie McMahon. Copyright 2017-2020.</h5>
